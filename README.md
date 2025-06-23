@@ -1,7 +1,6 @@
 # ☕ Coffee Sales Dashboard
 
 ![Dashboard Preview](https://github.com/coder-akram-khan/Coffee-Sales-Dashboard/blob/main/dashscreenshot.PNG?raw=true)  
-Replace with a screenshot of your dashboard
 
 A dynamic and interactive Excel dashboard designed to visualize coffee sales data, track performance metrics, and uncover actionable insights. Built for coffee retailers, managers, and analysts to monitor trends, customer behavior, and product performance.
 
